@@ -63,6 +63,10 @@ td.x{
 td.github{
     background: #F05033;
 }
+td.youtube{
+    background-color: #FF0000;
+    border-radius: 20px ;
+}
 a{
     text-decoration: none;
     color: white;
